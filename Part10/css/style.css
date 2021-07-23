@@ -1,0 +1,36 @@
+body
+{
+	padding-top: 4.375em;
+	padding-bottom: 9em;
+}
+
+.navbar-text > a
+{
+	color: inherit;
+	text-decoration: none;
+}
+
+p
+{
+	font-family: Pangolin, cursive;
+	font-size: 1.25em;
+}
+
+h1, h2, h3
+h4, h5, h6
+{
+	font-family: Candal;
+}
+
+
+
+
+label
+{
+	margin-bottom: 5px;
+}
+
+#footerText
+{
+	font-size: 1.5em;
+}
